@@ -1,0 +1,117 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0; /* Removes padding behaviour on widths */
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Attribute selector */
+[class*='col-'] {
+  float: left;
+  padding: 10px;
+}
+
+/* Floats last ".col-" to the right */
+[class*='col-']:last-of-type {
+  padding-right: 10px;
+  float: right;
+}
+.last-type {
+  padding-right: 10px;
+  float: right;
+}
+
+/* Centered Container */
+.page-container {
+  width: 1200px;
+  height: 1000px;
+  float: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+/* Clearfix */
+.row:after {
+  content: "";
+  display: table;
+}
+
+/* Main Widths */
+.col-12 {
+  width: 100%;
+}
+.col-6 {
+  width: 50%;
+}
+.col-4 {
+  width: 33.33%;
+}
+.col-3 {
+  width: 25%;
+}
+.col-5 {
+  width: 41.6666666667%;
+}
+.col-2 {
+  width: 16.6666666667%;
+}
+.col-11 {
+  width: 91.666666666%;
+}
+.col-10 {
+  width: 83.333333333%;
+}
+.col-9 {
+  width: 75%;
+}
+.col-8 {
+  width: 66.6666666666%;
+}
+.col-7 {
+  width: 58.33333333333%;
+}
+.col-1 {
+  width: 8.33%;
+}
+
+/* Main Heights */
+.row-12 {
+  height: 100%;
+}
+.row-6 {
+  height: 50%;
+}
+.row-4 {
+  height: 33.33%;
+}
+.row-3 {
+  height: 25%;
+}
+.row-5 {
+  height: 41.6666666667%;
+}
+.row-2 {
+  height: 16.6666666667%;
+}
+.row-11 {
+  height: 91.666666666%;
+}
+.row-10 {
+  height: 83.333333333%;
+}
+.row-9 {
+  height: 75%;
+}
+.row-8 {
+  height: 66.6666666666%;
+}
+.row-7 {
+  height: 58.33333333333%;
+}
+.row-1 {
+  height: 8.33%;
+}
