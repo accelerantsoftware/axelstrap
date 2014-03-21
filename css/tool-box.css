@@ -14,12 +14,12 @@
 	width: 30px;
 }
 
-.plusSmallDataCell {
-	width: 75px;
+.smallPlusDataCell {
+	width: 60px;
 }
 
 .wideDataCell {
-	width: 359px;
+	width: 360px;
 }
 
 .blueLabel {
@@ -27,7 +27,7 @@
 	font-family: Arial;
 	font-weight: bold;
 	background-color: DeepSkyBlue;
-	width: 173px;
+	width: 180px;
 	border-bottom-style: solid;
 	border-bottom-width: thin;
 	border-top-style: solid;
@@ -56,7 +56,7 @@
 	border-left-width: thin;
 	border-bottom-color: black;
 	border-top-width: thin;
-	width: 196px;
+	width: 180px;
 }
 
 .selectBoxMediumWidth {
@@ -76,12 +76,9 @@
 	color: white;
 }
 
-.wideFormStandard {
-	width: 1250px;
-}
 
-.mediumReducer250 {
-	width: 250px;
+.mediumReducer270 {
+	width: 270px;
 }
 
 .mediumReducer150 {
@@ -114,23 +111,23 @@
 }
 
 .inputFieldSmall {
-	width: 55px;
+	width: 60px;
 }
 
 .inputFieldSmallReadOnly {
-	width: 50px;
+	width: 60px;
 	background-color: #808080;
 	color: Black;
 }
 
 .inputFieldSmallReadOnlyAlways {
-	width: 50px;
+	width: 60px;
 	background-color: #808080;
 	color: Black;
 }
 
 .largeSelectBox {
-	width: 250px;
+	width: 270px;
 	background-color: #FFFFFF;
 	float: left;
 	font-size: 16px;
@@ -145,5 +142,5 @@
 }
 
 .inputFieldMediumWide {
-	width: 550px;
+	width: 540px;
 }
