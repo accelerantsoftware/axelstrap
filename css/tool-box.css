@@ -1,0 +1,149 @@
+.userGreeting {
+	color: Red;
+	float: left;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+.textAlignLeft {
+	text-align: left;
+}
+
+.smallDataCell {
+	width: 30px;
+}
+
+.plusSmallDataCell {
+	width: 75px;
+}
+
+.wideDataCell {
+	width: 359px;
+}
+
+.blueLabel {
+	font-size: 16px;
+	font-family: Arial;
+	font-weight: bold;
+	background-color: DeepSkyBlue;
+	width: 173px;
+	border-bottom-style: solid;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-top-color: black;
+	border-left-color: black;
+	border-left-style: solid;
+	border-right-color: black;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-left-width: thin;
+	border-bottom-color: black;
+	border-top-width: thin;
+	color: white;
+}
+
+.fieldedTextForm {
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-top-style: solid;
+	border-left-color: black;
+	border-top-color: black;
+	border-right-color: black;
+	border-left-style: solid;
+	border-right-width: thin;
+	border-right-style: solid;
+	border-left-width: thin;
+	border-bottom-color: black;
+	border-top-width: thin;
+	width: 196px;
+}
+
+.selectBoxMediumWidth {
+	width: 270px;
+}
+
+.textFieldMediumWidth {
+	width: 270px;
+	background-color: white;
+}
+
+.heading {
+	font-size: 16px;
+	background-color: DeepSkyBlue;
+	font-family: Arial;
+	font-weight: bold;
+	color: white;
+}
+
+.wideFormStandard {
+	width: 1250px;
+}
+
+.mediumReducer250 {
+	width: 250px;
+}
+
+.mediumReducer150 {
+	width: 150px;
+}
+
+
+.topLogo {
+	width: 90px;
+	float: left;
+	height: 60px;
+}
+
+.standardButton {
+	background-color: #FFC200;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.gridEntryLocked {
+	width: 270px;
+	background-color: #808080;
+	color: Black;
+}
+
+.gridEntryLockedAlways {
+	width: 270px;
+	background-color: #808080;
+	color: Black;
+}
+
+.inputFieldSmall {
+	width: 55px;
+}
+
+.inputFieldSmallReadOnly {
+	width: 50px;
+	background-color: #808080;
+	color: Black;
+}
+
+.inputFieldSmallReadOnlyAlways {
+	width: 50px;
+	background-color: #808080;
+	color: Black;
+}
+
+.largeSelectBox {
+	width: 250px;
+	background-color: #FFFFFF;
+	float: left;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.largeSelectBox .option {
+	background-color: #FFFFFF;
+	float: right;
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.inputFieldMediumWide {
+	width: 550px;
+}
